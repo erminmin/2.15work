@@ -1,0 +1,24 @@
+<xml version="1.0" encoding="utf-8">
+	<root>
+		<stu>
+			<name>贾敏</name>
+			<age>20</age>
+			<sex>女</sex>
+		</stu>
+		<stu>
+			<name>郝慧敏</name>
+			<age>20</age>
+			<sex>女</sex>
+		</stu>
+		<stu>
+			<name>张瑞丽</name>
+			<age>20</age>
+			<sex>女</sex>
+		</stu>
+		<stu>
+			<name>吴世鹏</name>
+			<age>25</age>
+			<sex>男</sex>
+		</stu>
+	</root>
+</xml>
